@@ -15,6 +15,7 @@ public class HolaFedora {
      */
     public static void main(String[] args) {
         System.out.println("HOLA"+System.getProperty("os.name")+" Version "+System.getProperty("os.version"));
+        System.out.println("HOLA MUNDO !!!!");
         // TODO code application logic here
     }
 }
